@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h6 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin-right: 0.5rem;
+}
